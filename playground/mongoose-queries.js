@@ -12,7 +12,7 @@ var id = '5a6cd229e467fc1b0c14b170';
 //
 // Todo.findOne({
 //   _id: id
-// }).then((// TODO: ) =>{
+// }).then((todo) =>{
 //   console.log('Todo', todo);
 // }  );
 //
